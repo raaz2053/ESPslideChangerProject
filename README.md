@@ -24,8 +24,8 @@ This project implements a **BLE (Bluetooth Low Energy) HID Keyboard** using an *
 
 ## 🔌 Wiring
 Simply put a push button between PIN2 of ESP32 and GND pin.
+![Prototype image](image.jpg)
 ![Prototype image](image01.jpg)
-![Prototype image](image.heic)
 
 
 ## 📦 Libraries Used
